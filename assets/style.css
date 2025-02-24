@@ -147,6 +147,7 @@ button.hoge {
   #menu_forPhone {
     user-select: none;
     padding: 20px;
+    -webkit-tap-highlight-color: transparent;
   }
   #forPhone_ju {
     position: fixed;
